@@ -1,0 +1,14 @@
+%title {
+  text-transform: uppercase;
+}
+%titleCenter {
+  text-align: center;
+}
+%sectionMargin {
+  margin: 0 auto 90px;
+}
+@media (max-width: 768px) {
+  %sectionMargin {
+    margin: 0 auto 30px;
+  }
+}
